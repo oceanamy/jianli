@@ -260,6 +260,7 @@ ul, ol {
 }
 
 .secrion-title h3, .section-title.center h3 {
+	font-weight:normal;
 	color:#999999;
 	margin-bottom: 5px;
 }
